@@ -1,0 +1,4 @@
+magician:1
+wolf:2
+wolf:3
+wolf:3
